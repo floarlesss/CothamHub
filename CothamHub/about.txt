@@ -1,0 +1,20 @@
+Hello, and thank you so much for giving CothamHub a try!
+
+I developed CothamHub to help you in teaching your students.
+CothamHub will constantly grow
+
+
+
+
+
+
+
+
+
+CothamHub
+
+Developed by Seth Bennett in Year 9. (development started on 21/09/2023 and finished on ---)
+CothamHub is meant to be a program with different tools that teachers can use to assist their lesson. Whether it be a timer, reminder tracker or anything else that teachers may suggest be added (or I add).
+
+
+CothamHub updates by using GitHub. 
