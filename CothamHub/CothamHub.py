@@ -8,4 +8,14 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter import *
 
+window = Tk()
 
+window.title("CothamHub Test")
+window.geometry('350x200')
+ 
+
+
+
+
+
+window.mainloop()
