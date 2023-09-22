@@ -89,7 +89,8 @@ def fadein():
         window.attributes('-alpha', count)
         window.after(25, fadein)
 
-
+def updateChecker():
+    updaterVersionLink = urllib2.urlopen('https://drive.google.com/u/2/uc?id=19js8ABpL7aM_WsQSGHSdqnrApdcGYdQa&export=download')
 
 
 
